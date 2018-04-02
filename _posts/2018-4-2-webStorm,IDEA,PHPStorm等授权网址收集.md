@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "webStorm,IDEA,PHPStorm等授权网址收集"
+subtitle:   "软件配置"
+date:       2018-04-02 12:00:00
+author:     "清晨"
+header-img: "img/post-bg-nextgen-web-pwa.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - 软件配置
+---
+
 这些都是在网上找的:
 
 > 1.http://idea.imsxm.com/  楼主就是用的这个，2016.1.1版的
