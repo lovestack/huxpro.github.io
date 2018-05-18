@@ -2,7 +2,7 @@
 layout:     post
 title:      "webStorm,IDEA,PHPStorm等授权网址收集"
 subtitle:   "软件配置"
-date:       2018-04-02 12:00:00
+date:       2018-5-15 12:00:00
 author:     "清晨"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
@@ -22,5 +22,9 @@ tags:
 > 4.http://idea.ibdyr.com 这个是2017.3.2以上版本的
 
 > 5.http://jetbrains.tools 这个是2018.1以上
+
+> 6.http://www.activejetbrains.gq    更新于2018-5-15
+
+> 7.http://idea.imsxm.com   更新于2018-5-15
 
 持续更新中。。。
